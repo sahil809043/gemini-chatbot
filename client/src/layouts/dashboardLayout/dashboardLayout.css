@@ -1,0 +1,26 @@
+.dashboardLayout {
+    display: flex;
+    gap: 0;
+    height: 100%;
+    padding-top: 20px;
+    transition: all 0.3s ease-in-out;
+
+    .menu {
+        flex: 1;
+        transition: all 0.3s ease-in-out;
+    }
+
+    .content {
+        flex: 30;
+        background-color: #12101b;
+        transition: all 0.3s ease-in-out;
+    }
+
+    &.chat-list-open .content {
+        flex: 4;
+    }
+
+    &.chat-list-closed .content {
+        flex: 30;
+    }
+}
