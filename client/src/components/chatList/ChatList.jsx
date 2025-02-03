@@ -47,7 +47,7 @@ const ChatList = ({ isChatListVisible, toggleChatList }) => {
 
             <span className="title">DASHBOARD</span>
             <Link to="/dashboard">Create a new Chat</Link>
-            <Link to="/">Explore Close AI</Link>
+            <Link to="/">Explore GeminiX</Link>
             <Link to="/">Contact</Link>
 
             <hr />

@@ -36,7 +36,7 @@ const DashboardPage = ({ isChatListVisible }) => {
             <div className="texts">
                 <div className="logo flex flex-col items-center">
                     <img src="/logo.png" alt="" className="mx-auto" />
-                    <h1 className="font-gilroy">Close AI</h1>
+                    <h1 className="font-gilroy">GeminiX</h1>
                 </div>
                 <div className="options">
                     <div className="option transition-all duration-700 ease-in-out transform hover:scale-105 text-nowrap cursor-pointer flex flex-col items-center">

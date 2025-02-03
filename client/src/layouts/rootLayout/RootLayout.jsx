@@ -33,7 +33,7 @@ const RootLayout = () => {
                 <header>
                     <Link to="/" className="logo">
                         <img src="/logo.png" alt="Logo" />
-                        <span className="font-bold tracking-wider text-xl">Close AI</span>
+                        <span className="font-bold tracking-wider text-xl">GeminiX</span>
                     </Link>
                     <div className="user font-bold tracking-wider text-xl">
                         {currentUser ? (

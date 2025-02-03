@@ -5,8 +5,6 @@ import url, { fileURLToPath } from "url";
 import ImageKit from "imagekit";
 import mongoose from "mongoose";
 import cookieParser from "cookie-parser";
-// import Chat from "./models/chats.js";
-// import UserChats from "./models/userChats.js";
 import middleware from "./middleware/authentication.middleware.js";
 import router from "./routes/user.routes.js";
 

@@ -10,7 +10,7 @@ const Homepage = () => {
         <div className="homepage font-gilroy">
             <img src="/orbital.png" alt="" className="orbital" />
             <div className="left">
-                <h1>Close AI</h1>
+                <h1>GeminiX</h1>
                 <h2>Supercharge your creativity and productivity</h2>
                 <h3>
                     Lorem ipsum dolor sit, amet consectetur adipisicing elit. Placeat sint
